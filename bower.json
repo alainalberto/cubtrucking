@@ -1,0 +1,20 @@
+{
+  "name": "cubtrucking",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alainalberto/cubtrucking.git",
+  "authors": [
+    "Alain Alberto <alainalberto03@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "btp/static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
